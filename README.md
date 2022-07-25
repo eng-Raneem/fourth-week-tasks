@@ -12,4 +12,5 @@ void setup() { // set up the LCD's number of columns and rows: lcd.begin(16, 2);
 
 you can also try the code by your own by visiting the following link : https://www.tinkercad.com/things/ajYv5SWOn9q-temperature-sensor/editel
 
-**Digital sensor**: I used PIR (motion sensor) to turn on\off LED and a slide sensor to turn the LED on\off too in another connection You can also see the connections by visiting the following link: https://www.tinkercad.com/things/ifLI8voYBvy-digital-sensors/editel
+**Digital sensor**: I used PIR (motion sensor) to turn on\off LED and a slide sensor to turn the LED on\off too in another connection 
+You can also see the connections by visiting the following link: https://www.tinkercad.com/things/ifLI8voYBvy-digital-sensors/editel
